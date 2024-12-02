@@ -8,7 +8,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Sonu">
+  <a href="https://github.com/SonuGupta225">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sonu-kumar-5880b9282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">

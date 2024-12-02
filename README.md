@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
+ <h1 align="center">Hi 👋, I am Sonu Kumar</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning more

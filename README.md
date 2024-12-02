@@ -11,7 +11,7 @@
   <a href="https://github.com/SonuGupta225">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sonu-kumar-5880b9282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/sonugupta225">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
    <a href="https://www.instagram.com/sonukr705065/profilecard/?igsh=MTZ4NTVjY2QzcmMxdA==">

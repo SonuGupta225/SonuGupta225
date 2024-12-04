@@ -17,8 +17,7 @@
    <a href="https://www.instagram.com/sonukr705065/profilecard/?igsh=MTZ4NTVjY2QzcmMxdA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100086512293988&mibextid=JRoKGi">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+ 
   
 </div>
 

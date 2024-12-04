@@ -26,8 +26,7 @@
 
 ![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuGupta225&show_icons=true&theme=dark)
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuGupta225&theme=dark)
-
+// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuGupta225&theme=dark)
 <br>
 ⭐️ From [Sonu Kumar](https://github.com/SonuGupta225)
 ## Hi there 👋
